@@ -11,3 +11,10 @@
 *.lai
 *.la
 *.a
+
+# Edited temple files
+*.~
+*.swp
+
+# Executed files
+*.exe
